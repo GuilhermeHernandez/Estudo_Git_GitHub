@@ -8,9 +8,14 @@ Repositorio para armazenar resumos sobre Git e GitHub do curso Versionamento de 
 
 ## 💻 Resumos das Aulas
 
-| Aulas | Resumos |
-|-------|---------|
-|Gravando alterações no Repositório Local | [Resumos]() |
+| Aulas |
+|-------|
+|Oque é Git e GitHub |
+|Configurando GitHub |
+|Criando e Clonando Repositórios |
+|Excluindo Repositórios |
+|Modificando Repositórios |
+|Conhecendo a interface digital do GitHub |
 
 ## 🔍 Referências
     - [Digital Innovation One](https://web.dio.me/track/46caf3fd-1336-4379-b5bd-311357cb717b).
